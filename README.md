@@ -1,17 +1,12 @@
 ### Hi there 👋
-
-- 👋 Hello, I'm Heykal.
-- 🎓 I'm a Data Science student passionate about exploring and uncovering insights from data.
+Hello, I'm Heykal.<br>
+I'm a Data Science student passionate about exploring and uncovering insights from data.
 - 🔍 Main Interests: Data Analysis, Machine Learning, Data Visualization
-- 🚀 Skills:
-  * Programming Languages: Python, R, 
-  * Libraries & Frameworks: Pandas, NumPy, Scikit-learn, Keras, Matplotlib, Seaborn
-  * Tools: Jupyter Notebook, Git
-  * Languages: Indonesia, English
-- 📫 Contact Me: LinkedIn: [https://www.linkedin.com/in/sayidheykal/]<br>
+- 🚀 Currently learning about Machine Learning at Bangkit Academy program
+- 📫 Letss Connect: LinkedIn: [https://www.linkedin.com/in/sayidheykal/]<br>
 
 **Thank you for visiting my profile!**
-
+<hr>
 
 ### Github Statistic
 <p align="left">
