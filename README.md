@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**sayid-alt/sayid-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hello, I'm Heykal.
 
-Here are some ideas to get you started:
+- 🎓 I'm a Data Science student passionate about exploring and uncovering insights from data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔍 Main Interests:
+  * Data Analysis
+  * Machine Learning
+  * Data Visualization
+    
+- 🚀 Skills:
+  * Programming Languages: Python, R, 
+  * Libraries & Frameworks: Pandas, NumPy, Scikit-learn, Keras, Matplotlib, Seaborn
+  * Tools: Jupyter Notebook, Git
+  * Languages: Indonesia, English
+
+
+📫 Contact Me:
+
+LinkedIn: [https://www.linkedin.com/in/sayidheykal/]<br>
+Thank you for visiting my profile!
