@@ -3,7 +3,7 @@ Hello, I'm Heykal.<br>
 I'm a Data Science student passionate about exploring and uncovering insights from data.
 - 🔍 Main Interests: Data Analysis, Machine Learning, Data Visualization
 - 🚀 Currently learning about Machine Learning at Bangkit Academy program
-- 📫 Letss Connect: LinkedIn: [https://www.linkedin.com/in/sayidheykal/]<br>
+- 📫 Let's Connect: LinkedIn: [https://www.linkedin.com/in/sayidheykal/]<br>
 
 **Thank you for visiting my profile!**
 <hr>
