@@ -11,6 +11,7 @@
   * Libraries & Frameworks: Pandas, NumPy, Scikit-learn, Keras, Matplotlib, Seaborn
   * Tools: Jupyter Notebook, Git
   * Languages: Indonesia, English
-📫 Contact Me:
-LinkedIn: [https://www.linkedin.com/in/sayidheykal/]<br>
-Thank you for visiting my profile!
+- 📫 Contact Me:
+  * LinkedIn: [https://www.linkedin.com/in/sayidheykal/]<br>
+
+**Thank you for visiting my profile!**
