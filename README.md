@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔍 Main Interests: Data Analysis, Machine Learning, Data Visualization<br>🚀 Currently as Machine Learning Cohort at Bangkit Academy program
+🔍 Main Interests: Data Analysis, Machine Learning, Data Visualization<br>🚀
 
 
 ## 🌐 Socials:
