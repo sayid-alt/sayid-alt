@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔍 Main Interests: Data Analysis, Machine Learning, Data Visualization<br>🚀
+🔍 Main Interests: Data Analysis, Machine Learning, Backend<br>
 
 
 ## 🌐 Socials:
