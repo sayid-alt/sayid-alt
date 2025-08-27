@@ -15,7 +15,7 @@
 
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=sayid-alt)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=sayid-alt)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sayid-alt&label=Profile%20Views&color=1&icon=6&pretty=true)](https://visitcount.itsvg.in)
