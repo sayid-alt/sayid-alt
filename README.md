@@ -14,7 +14,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayid-alt&layout=compact&theme=radical)<br>
 
 # 📙 Portfolio Repo
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sayid-alt&repo=portfolio&theme=radical&show_owner=true)](https://github.com/sayid-alt/portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sayid-alt&repo=portfolio&theme=radical&show_owner=false)](https://github.com/sayid-alt/portfolio)
 
 
 ## 🏆 GitHub Trophies
