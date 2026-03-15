@@ -13,10 +13,6 @@
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=sayid-alt)](https://git.io/streak-stats)<br> -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayid-alt&layout=compact&theme=radical)<br>
 
-# 📙 Portfolio Repo
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sayid-alt&repo=portfolio&theme=radical&show_owner=false)](https://github.com/sayid-alt/portfolio)
-
-
 ## 🏆 GitHub Trophies
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=sayid-alt)](https://github.com/ryo-ma/github-profile-trophy) -->
 
